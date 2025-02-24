@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/Users/vasilijfrolov/Desktop/Rust/Embedded/discovery/microbit/target/thumbv7em-none-eabihf/debug/build/nrf52833-pac-638f481942e8c85e/out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs

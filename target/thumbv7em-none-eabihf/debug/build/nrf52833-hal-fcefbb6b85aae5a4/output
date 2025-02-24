@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/Users/vasilijfrolov/Desktop/Rust/Embedded/discovery/microbit/target/thumbv7em-none-eabihf/debug/build/nrf52833-hal-fcefbb6b85aae5a4/out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=memory.x

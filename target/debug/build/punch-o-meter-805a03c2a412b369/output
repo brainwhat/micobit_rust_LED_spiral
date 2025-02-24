@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/Users/vasilijfrolov/Desktop/Rust/Embedded/discovery/microbit/target/debug/build/punch-o-meter-805a03c2a412b369/out
+cargo:rerun-if-changed=memory.x

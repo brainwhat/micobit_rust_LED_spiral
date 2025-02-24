@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/Users/vasilijfrolov/Desktop/Rust/Embedded/discovery/microbit/target/debug/build/led-compass-dedbc87d8a0f0677/out
+cargo:rerun-if-changed=memory.x
